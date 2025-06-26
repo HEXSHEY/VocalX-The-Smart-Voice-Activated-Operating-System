@@ -1,1 +1,4 @@
 # VocalX-The-Smart-Voice-Activated-Operating-System
+VocalX is a voice-activated, AI-integrated desktop assistant designed to provide hands-free control of common system tasks. It enables users to perform system-level actions such as opening applications, browsing the internet, retrieving system information, and interacting with AI through natural language commands. The project addresses accessibility, productivity, and seamless user interaction with the system, especially for differently-abled users or multitasking environments.
+VocalX combines Python-based libraries such as SpeechRecognition, Vosk (offline voice authentication), pyttsx3 (text-to-speech), and openai (for intelligent AI-based interaction). The GUI, built using Tkinter, provides an intuitive dark-mode interface and real-time feedback. Voice commands are securely authenticated before being passed to a command-execution engine, ensuring secure and accurate system control.
+
